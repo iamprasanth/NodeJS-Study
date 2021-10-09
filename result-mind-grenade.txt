@@ -1,0 +1,4 @@
+THIS IS AWESOME : *.DS_Store
+*/node_modules/
+ *.DS_Store
+*/node_modules/

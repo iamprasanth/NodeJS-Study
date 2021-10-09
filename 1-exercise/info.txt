@@ -1,0 +1,3 @@
+1. Practiced sample module export using the rectangle problem with
+
+2. Practiced callbacks and Error Handling
